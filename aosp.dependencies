@@ -16,5 +16,11 @@
     "target_path" : "vendor/asus/sdm660-common",
     "branch"      : "twelve",
     "remote"      : "pixel-devices-blobs"
+  },
+  {
+    "repository"  : "Asus-Max-Pro-M2/device_qcom_sepolicy-legacy-um",
+    "target_path" : "device/qcom/sepolicy-legacy-um-custom",
+    "branch"      : "twelve",
+    "remote"      : "github"
   }
 ]
